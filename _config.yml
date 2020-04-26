@@ -1,11 +1,11 @@
 # Site settings
 author: Christian Cherry
-title: 
+title: Searching for Self Fullfilment in a Career
 header-img: img/home-bg.png
 email: christianchrr@gmail.com
 copyright_name: Christian Cherry
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I Chose Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  christianchrr
